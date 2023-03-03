@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ShashwatPatel107
-- 👀 I’m interested in AI/Machine Learning/Deep Learning
-- 🌱 I’m currently learning Data Science / Machine Learning
+
